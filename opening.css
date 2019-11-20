@@ -6,7 +6,7 @@ src: url("BMDOHYEON_ttf.eot") format("eot"),
 }
 body{
 font-family: "BMDOHYEON";
-background-image:url("opening.GIF");
+background-image:url("opening.gif");
 background-size:100%;
 box-sizing:border-box;
 }
