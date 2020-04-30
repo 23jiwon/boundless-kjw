@@ -13,7 +13,7 @@ src: local(BMDOHYEON),
 
 body{
 font-family: BMDOHYEON;
-background-image:url("opening.gif");
+background-image:url("main.png");
 background-size:100%;
 box-sizing:border-box;
 }
